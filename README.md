@@ -13,6 +13,8 @@ Variational comes in two flavors depending on what you need:
 
 ---
 
+![maxresdefault (1)](https://github.com/user-attachments/assets/1a113ef3-6e4c-4515-86d5-3cece02b649f)
+
 ## Download
 
 | Platform | Architecture | Link |
